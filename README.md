@@ -1,4 +1,4 @@
-# nextjs-config
+# Notes App (using code from nextjs-config)
 
 ## How to Start
 
